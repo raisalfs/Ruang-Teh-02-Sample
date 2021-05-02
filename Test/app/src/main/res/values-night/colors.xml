@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#0E0D0D</color>
+    <color name="actionBarBackground">#3F7993</color>
+    <color name="statusBarBackground">#345B6C</color>
+    <color name="textColor">@color/white</color>
+    <color name="textColorSecondary">#50ffffff</color>
+    <color name="textColorActionBar">#171718</color>
+</resources>
